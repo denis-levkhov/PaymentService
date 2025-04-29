@@ -1,4 +1,4 @@
 package pearacle.paymentservice.repository;
 
-public interface PaymentAccountRepository {
+public interface BankAccountRepository {
 }
