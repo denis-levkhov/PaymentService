@@ -1,4 +1,4 @@
-package pearacle.paymentservice.model.entity;
+package pearacle.paymentservice.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
@@ -9,7 +9,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import pearacle.paymentservice.model.enums.RefundStatus;
+import pearacle.paymentservice.enums.RefundStatus;
 
 import java.math.BigDecimal;
 
