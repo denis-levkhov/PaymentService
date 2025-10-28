@@ -1,4 +1,4 @@
-package pearacle.paymentservice.model.entity;
+package pearacle.paymentservice.entity;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

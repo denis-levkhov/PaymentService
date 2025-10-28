@@ -1,4 +1,4 @@
-package pearacle.paymentservice.model.entity;
+package pearacle.paymentservice.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
